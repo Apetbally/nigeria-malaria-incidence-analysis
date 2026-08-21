@@ -4,7 +4,7 @@ An end-to-end data analytics project examining 25 years of monthly malaria surve
 
 Demo Video
 
-Watch the full walkthrough here: Project Demo Video
+Watch the full walkthrough here: [Project Demo Video](https://drive.google.com/file/d/127VjprQU2-dFBax0B2lKdw2FrfKZrAra/view?USp=sharing)
 
 Project Objective
 
