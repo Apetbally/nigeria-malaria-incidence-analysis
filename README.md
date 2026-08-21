@@ -3,8 +3,7 @@ Nigeria Malaria Incidence Analysis (2000–2024)
 An end-to-end data analytics project examining 25 years of monthly malaria surveillance data across 8 Nigerian states, covering data cleaning, exploratory analysis, and an interactive Power BI dashboard.
 
 Demo Video
-
-Watch the full walkthrough here: [Project Demo Video](https://drive.goggle.com/file/d/127VjprQU2-dFBax0B2lKdw2FrfKZrAra/view?usp=sharing)
+watch the full walkthrough here: [Project Demo Video](https://drive.google.com/file/d/127VjprQU2-dFBaxOB2lKdw2FrfKZrAra/view?usp=sharing)
 
 Project Objective
 
